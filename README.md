@@ -1,14 +1,16 @@
-# iPadDeck for Mac
+# DEK for Mac
+
+Previously called iPadDeck. Existing installations update through this same feed.
 
 Turn Safari on your iPad into a customizable control deck for your Mac: launch/minimize apps, use Premiere shortcuts and custom keyboard presets, record shortcuts, and control music.
 
 ## Install once, then update in the app
 
-1. [Download the latest iPadDeck-Mac.zip](https://github.com/7juliusearl/iPadDeck-Releases/releases/latest/download/iPadDeck-Mac.zip).
-2. Quit the old iPadDeck, unzip the download, and move iPadDeck.app into Applications.
+1. [Download the latest DEK-Mac.zip](https://github.com/7juliusearl/iPadDeck-Releases/releases/latest/download/DEK-Mac.zip).
+2. Quit the old DEK, unzip the download, and move DEK.app into Applications.
 3. Open the app and use its menu-bar grid icon to connect your iPad.
 
-Version 0.5.0 introduces automatic updates. Earlier versions need this one manual replacement on each Mac. Future published releases are checked hourly while running and downloaded automatically; they normally install when iPadDeck quits. Use **Check for Updates…** to install and relaunch sooner. **Automatic updates** in the menu controls background updates. Refresh Safari after an update.
+Version 0.5.0 introduces automatic updates. Earlier versions need this one manual replacement on each Mac. Future published releases are checked hourly while running and downloaded automatically; they normally install when DEK quits. Use **Check for Updates…** to install and relaunch sooner. **Automatic updates** in the menu controls background updates. Refresh Safari after an update.
 
 Requires macOS 14 or newer. Includes Apple Silicon and Intel support. Each Mac keeps its own layout and pairing settings. Updates do not sync or erase those settings.
 
